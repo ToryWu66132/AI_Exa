@@ -1,0 +1,9 @@
+openai
+faiss-cpu
+numpy
+pandas
+python-dotenv
+reportlab
+sentence-transformers
+streamlit
+exa-py
